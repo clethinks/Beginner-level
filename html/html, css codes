@@ -1,0 +1,74 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset='UTF-8'>
+    <title>THEM MUSHROOMS DISCOGRAPHY </title>
+    <link rel="stylesheet" href="styles.css" >
+  </head>
+  <body>
+  <main id="main">
+     <h1 id="title">THEM MUSHROOMS<h1>
+        <p>Discography<p>
+          <div id="img-div">
+            <img id="image" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Them_Mushrooms.jpg" alt="Them Mushrooms band members"/>
+<figcaption id="img-caption">Them Mushroom band members, source- Wikipedia</figcaption>
+         </div> 
+         <div id="tribute-info">
+           <h2>Albums</h2>
+           <ul>
+             <li>Jambo Bwana (1980)</li>
+             <li>Mama Africa (1983)</li>
+             <li>New Horizons (1985)</li>
+             <li>At the Carnivore (1987)</li>
+             <li>Going Places (1988)</li>
+             <li>Almost There (1989)</li>
+             <li>Songs from Kenya (2000)</li>
+             <li>Uyoga(2004)</li>
+             </ul>
+           </div>
+<a id="tribute-link" target="_blank" href="https://en.wikipedia.org/wiki/Them_Mushrooms">Link</a>
+
+    </main>
+
+** end of undefined **
+
+** start of undefined **
+
+body{
+  font-family: Roboto;
+  background: beige;
+  margin: auto;
+  
+}
+#main{
+  background-color: pink;
+  margin: auto;
+  border-radius: 100px;
+  text-align: center;
+}
+#img-div{
+  color: green;
+  text-align: left;
+  font-family: Helvetica;
+  font-size: 30px;
+}
+#image{
+  display: block;
+}
+img{
+  max-width: 100%;
+  height: auto;
+}
+ul{
+  font-family: Roboto;
+  background-color: yellow;
+  border-radius: 300px;
+  text-align: right;
+  
+}
+
+
+** end of undefined **
+
