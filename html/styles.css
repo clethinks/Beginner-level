@@ -1,0 +1,33 @@
+body{
+    font-family: Roboto;
+    background: beige;
+    margin: auto;
+    
+  }
+  #main{
+    background-color: pink;
+    margin: auto;
+    border-radius: 100px;
+    text-align: center;
+  }
+  #img-div{
+    color: green;
+    text-align: left;
+    font-family: Helvetica;
+    font-size: 30px;
+  }
+  #image{
+    display: block;
+  }
+  img{
+    max-width: 100%;
+    height: auto;
+  }
+  ul{
+    font-family: Roboto;
+    background-color: yellow;
+    border-radius: 300px;
+    text-align: right;
+    
+  }
+  
